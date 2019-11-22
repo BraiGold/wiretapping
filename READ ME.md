@@ -3,7 +3,7 @@
 Trabajo practico de redes
 Se analizan los paquetes de diferntes redes locales utilizando la libreria scapy(.py) para posterior analisis de entropia y otras propiedades de cada red.
 
-mas detalle en informe
+mas detalle en el [Informe](https://gitlab.com/atun/wiretapping-redes/blob/master/informe_Tp1_Redes.pdf)
 
 la carpeta Codigo tiene adentro los scripts con el codigo pedido. ademas tiene codigo que genera los graficos
 
