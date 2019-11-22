@@ -1,0 +1,5 @@
+TP1 REDES
+
+la carpeta Codigo tiene adentro los scripts con el codigo pedido. ademas tiene codigo que genera los graficos
+
+La carpeta capturas tiene los csv que genera el codigo (aparte de mostrar lo pedido guarda la info capturada en csv)
